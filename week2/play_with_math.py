@@ -5,7 +5,7 @@ def log(x):
     return math.log(math.sqrt(math.pow(x, 7)), 5)
 
 print(log(5))
-print(round(math.pi, 5))
+print(round(math.pi, 6))
 
 row = 2
 col = 3
